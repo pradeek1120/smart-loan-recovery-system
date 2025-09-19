@@ -1,6 +1,8 @@
+**smart laon recovery system using XAI**
+
 This project aims to build an end-to-end machine learning system for smart loan recovery. The system leverages data analysis, customer segmentation, and predictive modeling to identify potential loan defaults, group customers with similar risk profiles, and develop personalized strategies for recovery.
 
-**The key stages of this project include:**
+**The key stages of this project include:****
 
 Data Loading and Exploration: Understanding the structure and characteristics of the loan data.
 Data Preprocessing: Cleaning and transforming the data for model readiness.
